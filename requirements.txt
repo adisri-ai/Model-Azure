@@ -13,8 +13,5 @@ psutil==5.9.3
 streamlit
 joblib
 openpyxl
-onnx==1.17.0        
-onnxruntime==1.17.3
-kreas2onnx
-onnxconverter-common==1.13.0
-skl2onnx==1.15.0
+onnx        
+onnxruntime
