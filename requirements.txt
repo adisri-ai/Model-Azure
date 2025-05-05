@@ -15,6 +15,6 @@ joblib
 openpyxl
 onnx==1.17.0        
 onnxruntime==1.17.3
-kreas2onnx==1.6.0
+kreas2onnx
 onnxconverter-common==1.13.0
 skl2onnx==1.15.0
